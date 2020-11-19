@@ -32,7 +32,7 @@
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1058885931"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
